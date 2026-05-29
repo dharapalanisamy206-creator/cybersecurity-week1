@@ -1,0 +1,451 @@
+Script started on 2026-05-27 10:28:47-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="235" LINES="68"]
+                                                                                                                                                                                                                                           ]0;kali@kali: ~[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hp[4mp[24m[4mp[24m[38;5;244mwd[39m[4mp[39m[4mw[24m[4mp[4mw[39m[4md[24m[24m[36mp[24m[36mw[24m[36md[39m[?1l>[?2004l
+/home/kali
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hl[36ml[39m[36ml[39m[38;5;244ms -la[39m[36ml[36ms[39m[39m [39m [39m [39m [?1l>[?2004l
+ [0m[01;34mDesktop[0m   [01;34mDocuments[0m   [01;34mDownloads[0m  'example .com.pcapng'   file1.txt   [01;34mlab[0m   [01;34mMusic[0m   [01;34mPictures[0m   [01;34mPublic[0m  'sugdhar cyber tech packets.pcapng'   [01;34mTemplates[0m   [01;34mtools[0m   [01;34mVideos[0m  'youtupe packet .pcapng'
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hl[36ml[39m[36ml[39m[38;5;244ms[39m[36ml[36ms[39m[36ml[36ms[36m [39m[36ml[36ms[39m[39m [38;5;244m-la[39m[39m-[32m-[39m[32m-[32ml[39m[32ml[32ma[39m[?1l>[?2004l
+total 4724
+drwx------ 19 kali kali    4096 May 27 10:29  [0m[01;34m.[0m
+drwxr-xr-x  3 root root    4096 Dec  2 21:36  [01;34m..[0m
+-rw-r--r--  1 kali kali     220 Dec  2 21:36  .bash_logout
+-rw-r--r--  1 kali kali    5551 Dec  2 21:36  .bashrc
+-rw-r--r--  1 kali kali    3526 Dec  2 21:36  .bashrc.original
+drwxrwxr-x 10 kali kali    4096 Mar 10 01:44  [01;34m.cache[0m
+drwxr-xr-x 15 kali kali    4096 Mar  8 04:28  [01;34m.config[0m
+drwxr-xr-x  2 kali kali    4096 Jan 19 09:11  [01;34mDesktop[0m
+-rw-r--r--  1 kali kali      35 Jan 19 09:11  .dmrc
+drwxr-xr-x  2 kali kali    4096 Jan 19 09:11  [01;34mDocuments[0m
+drwxr-xr-x  2 kali kali    4096 Jan 25 08:11  [01;34mDownloads[0m
+-rw-r--r--  1 kali kali   38172 Feb 17 10:28 'example .com.pcapng'
+-rw-r--r--  1 kali kali   11759 Dec  2 21:36  .face
+lrwxrwxrwx  1 kali kali       5 Dec  2 21:36  [01;36m.face.icon[0m -> .face
+-rw-rw-r--  1 kali kali       0 Jan 25 07:51  file1.txt
+drwx------  3 kali kali    4096 Jan 19 09:11  [01;34m.gnupg[0m
+-rw-------  1 kali kali       0 Jan 19 09:11  .ICEauthority
+drwxr-xr-x  3 kali kali    4096 Dec  2 21:36  [01;34m.java[0m
+drwxrwxr-x  3 kali kali    4096 May 26 10:51  [01;34mlab[0m
+drwxr-xr-x  5 kali kali    4096 Jan 19 09:11  [01;34m.local[0m
+drwx------  5 kali kali    4096 Jan 25 07:53  [01;34m.mozilla[0m
+drwxr-xr-x  2 kali kali    4096 Jan 19 09:11  [01;34mMusic[0m
+drwxr-xr-x  2 kali kali    4096 May 26 11:09  [01;34mPictures[0m
+-rw-r--r--  1 kali kali     807 Dec  2 21:36  .profile
+drwxr-xr-x  2 kali kali    4096 Jan 19 09:11  [01;34mPublic[0m
+drwx------  3 kali kali    4096 Jan 19 09:11  [01;34m.ssh[0m
+-rw-r--r--  1 kali kali       0 Feb 14 21:22  .sudo_as_admin_successful
+-rw-r--r--  1 kali kali 1987936 Feb 14 21:14 'sugdhar cyber tech packets.pcapng'
+drwxr-xr-x  2 kali kali    4096 Jan 19 09:11  [01;34mTemplates[0m
+drwxrwxr-x  2 kali kali    4096 Jan 25 07:47  [01;34mtools[0m
+-rw-r-----  1 kali kali       5 May 27 10:27  .vboxclient-clipboard-tty7-control.pid
+-rw-r-----  1 kali kali       4 May 27 10:27  .vboxclient-clipboard-tty7-service.pid
+-rw-r-----  1 kali kali       5 May 27 10:27  .vboxclient-display-svga-x11-tty7-control.pid
+-rw-r-----  1 kali kali       5 May 27 10:27  .vboxclient-display-svga-x11-tty7-service.pid
+-rw-r-----  1 kali kali       5 May 27 10:27  .vboxclient-draganddrop-tty7-control.pid
+-rw-r-----  1 kali kali       5 May 27 10:27  .vboxclient-draganddrop-tty7-service.pid
+-rw-r-----  1 kali kali       5 May 27 10:27  .vboxclient-hostversion-tty7-control.pid
+-rw-r-----  1 kali kali       5 May 27 10:27  .vboxclient-seamless-tty7-control.pid
+-rw-r-----  1 kali kali       4 May 27 10:27  .vboxclient-seamless-tty7-service.pid
+-rw-r-----  1 kali kali       5 May 27 10:27  .vboxclient-vmsvga-session-tty7-control.pid
+drwxr-xr-x  2 kali kali    4096 Jan 19 09:11  [01;34mVideos[0m
+-rw-------  1 kali kali      49 May 27 10:27  .Xauthority
+-rw-------  1 kali kali    4303 May 27 10:27  .xsession-errors
+-rw-------  1 kali kali    4355 May 27 09:23  [00;90m.xsession-errors.old[0m
+-rw-r--r--  1 kali kali 2608280 Feb 14 21:10 'youtupe packet .pcapng'
+-rw-r--r--  1 kali kali     336 Dec  2 21:36  .zprofile
+-rw-------  1 kali kali    2149 May 27 09:23  .zsh_history
+-rw-r--r--  1 kali kali   10855 Dec  2 21:36  .zshrc
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhoami[39m[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36ma[39m[39m[4mw[39m[4mh[39m[4mo[39m[4ma[24m[4ma[39m[4mm[24m[4mm[39m[4mi[24m[24m[36mw[24m[36mh[24m[36mo[24m[36ma[24m[36mm[24m[36mi[39m[?1l>[?2004l
+kali
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hh[4mh[24m[4mh[24m[38;5;244mistory[39m[4mh[39m[4mo[24m[39m [39m [39m [39m [39m [38;5;244mstname[39m[4mh[4mo[39m[4ms[24m[4ms[39m[4mt[24m[24m[36mh[24m[36mo[24m[36ms[24m[36mt[39m[36mt[36mn[39m[39m[4mh[39m[4mo[39m[4ms[39m[4mt[39m[4mn[24m[4mn[39m[4ma[24m[4ma[39m[4mm[24m[4mm[39m[4me[24m[8D[24m[36mh[24m[36mo[24m[36ms[24m[36mt[24m[36mn[24m[36ma[24m[36mm[24m[36me[39m[?1l>[?2004l
+kali
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hu[4mu[24m[4mu[24m[38;5;244mname -a[39m[4mu[39m[4mn[24m[4mu[4mn[39m[4ma[24m[4ma[39m[4mm[24m[4mm[39m[4me[24m[24m[36mu[24m[36mn[24m[36ma[24m[36mm[24m[36me[39m[36me[36m [39m[36me[39m[39m [39m-[32m-[39m[32m-[32ma[39m[?1l>[?2004l
+Linux kali 6.16.8+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.16.8-1kali1 (2025-09-24) x86_64 GNU/Linux
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hi[4mi[24m[4mi[24m[38;5;244mp addr show[39m[11D[4mi[39m[4mp[24m[24m[36mi[24m[36mp[39m[36mi[36mp[36m [39m[36mi[36mp[39m[39m [39ma[39md[39md[39mr[39m [39ms[1ms[0m[1ms[39m[1mh[0m[0ms[0mh[39mo[39mw[?1l>[?2004l
+1: [1;36mlo: [0m<LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback [1;33m00:00:00:00:00:00[0m brd [1;33m00:00:00:00:00:00[0m
+    inet [1;35m127.0.0.1[0m/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 [1;94m::1[0m/128 scope host noprefixroute 
+       valid_lft forever preferred_lft forever
+2: [1;36meth0: [0m<BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state [1;32mUP [0mgroup default qlen 1000
+    link/ether [1;33m08:00:27:63:b0:05[0m brd [1;33mff:ff:ff:ff:ff:ff[0m
+    inet [1;35m10.0.2.15[0m/24 brd [1;35m10.0.2.255 [0mscope global dynamic noprefixroute eth0
+       valid_lft 86190sec preferred_lft 86190sec
+    inet6 [1;94mfd17:625c:f037:2:255:9db4:7f23:8110[0m/64 scope global dynamic noprefixroute 
+       valid_lft 86192sec preferred_lft 14192sec
+    inet6 [1;94mfe80::d127:8679:d6fa:9ace[0m/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hd[4md[24m[4md[24m[38;5;244mata[39m[4md[39m[4mh[24m[39m [39m [4md[4mh[4m [24m[4md[4mh[24m[24m -[32m-[39m[32m-[32mh[39m[?1l>[?2004l
+Command 'dh' not found, but can be installed with:
+sudo apt install debhelper
+Do you want to install it? (N/y)free    
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hd[4md[24m[4md[24m[38;5;244mh -h[39m[4md[39m[4mh[24m[4md[24m[24m [39m [39m [39m [4md[24m[38;5;244mh -h[39m[4md[39m[4mf[24m[39m [39m [39m [24m[36md[24m[36mf[39m[38;5;244m -h[39m[36md[36mf[36m [39m[36md[36mf[39m[39m [39m-[32m-[39m[32m-[32mh[39m[?1l>[?2004l
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.9G     0  1.9G   0% /dev
+tmpfs           392M  940K  392M   1% /run
+/dev/sda1        79G   16G   59G  22% /
+tmpfs           2.0G  4.0K  2.0G   1% /dev/shm
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           2.0G   52K  2.0G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           392M  104K  392M   1% /run/user/1000
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hf[4mf[24m[4mf[24m[38;5;244mree -h[39m[4mf[39m[4mr[24m[4mf[4mr[39m[4me[24m[4me[39m[4me[24m[24m[36mf[24m[36mr[24m[36me[24m[36me[39m[36me[36m [39m[36me[39m[39m [39m0[39m  [38;5;244m-h[39m[39m-[32m-[39m[32m-[32mh[39m[?1l>[?2004l
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       958Mi       2.7Gi        27Mi       456Mi       2.9Gi
+Swap:          953Mi          0B       953Mi
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hd[4md[24m[4md[24m[38;5;244mf -h[39m[4md[39m[4ma[24m[39m [39m [39m [38;5;244mta[39m[4md[4ma[39m[4mt[24m[4mt[39m[4me[24m[24m[36md[24m[36ma[24m[36mt[24m[36me[39m[?1l>[?2004l
+Wed May 27 10:31:26 AM EDT 2026
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hh[4mh[24m[4mh[24m[38;5;244mostname[39m[4mh[39m[4mi[24m[39m [39m [39m [39m [39m [39m [38;5;244mstory[39m[4mh[4mi[39m[4ms[24m[4ms[39m[4mt[24m[4mt[39m[4mo[24m[4mo[39m[4mr[24m[4mr[39m[4my[24m[24m[36mh[24m[36mi[24m[36ms[24m[36mt[24m[36mo[24m[36mr[24m[36my[39m[?1l>[?2004l
+    1  whoiam
+    2  mkdir tools
+    3  touch file1.txt
+    4  ls
+    5  mkdir tools
+    6  cd tools
+    7  torbrowser-launcher
+    8  torbrowser-launcher
+    9  sudo pkill wireshark
+   10  ping google.com
+   11  ping 8.8.8.8
+   12  sudo apt update
+   13  ping -c 4 google.com
+   14  xfce4-screenshooter
+   15  gnome-screenshot -a
+   16  xfce4-screen
+   17  xfce4-screenshooter
+   18  xfce-screenshooter -d 10
+   19  gnome-screenshot-i
+   20  gnome-screenshot -i
+   21  y
+   22  gnome-screenshort -i
+   23  sudo apt update
+   24  whoiam
+   25  whoami
+   26  ls
+   27  mkdri
+   28  mkdirdharani
+   29  mkdri 
+   30  mkdri
+   31  cat<<'EOT'>~/lab/week1/tools/setup_check.sh\n#!/bin/bash\necho"===SYSTEM INFO==="\necho"Hostname:$(hostname)"\necho"User:$(whoami)"\necho"IP Address:$(ip addr show|grep 'inet'|\nawk'{print $2}'|head-1)"\necho"Kernal:$(uname-r)"\necho"===DISK USAGE ==="\ndf -h \nEOT
+   32  mkdir -p ~/lab/week1/tools
+   33  cat
+   34  mkdir
+   35  mkdir -p ~/lab/week1/tools
+   36  cat << 'EOT' > ~/lab/week1/tools/setup_check.sh\n#!/bin/bash\necho "=== SYSTEM INFO ==="\necho "Hostname:$(hostname)"\necho "User:$(whoami)"\necho "IP Address:$ip addr showe | grep 'inet' |\necho '{print $2}' | head -1)"\necho "Kernal: $uname -r)"\necho "===DISK USAGE==="\ndf -h\nEOT
+   37  chmod +x ~/lab/week1/tools/setup_check.sh
+   38  ~/lab/week1/tools/setup_check.sh
+   39  script ~/lab/week1/notes/terminal_log.txt
+   40  mkdir -script ~/lab/week1/notes/terminal_log.txt
+   41  script ~/lab/week1/notes/terminal_log.txt
+   42  pwd
+   43  ls
+   44  ls -la
+   45  whoami
+   46  hostname
+   47  uname -a
+   48  ip addr show
+   49  df -h
+   50  free -h
+   51  data
+   52  date
+   53  cal
+   54  cd ~/lab/week1
+   55  ls -R
+   56  cat notes/target_note.txt
+   57  touch test.txt
+   58  mkdir demo
+   59  cp test.txt demo/
+   60  mv test.txt newtest.txt
+   61  rm newtest.txt
+   62  ss -tuln
+   63  history
+   64  clear
+   65  echo "Hello"
+   66  man ls
+   67  exit
+   68  ls ~/lab/week1/notes
+   69  terminal_log.txt
+   70  ls ~/lab/week1/tools
+   71  script ~/lab/week1/notes/terminal_log.txt
+   72  pwd
+   73  ls
+   74  ls -la
+   75  whoami
+   76  hostname
+   77  uname -a
+   78  ip addr show
+   79  df -h
+   80  free -h
+   81  date
+   82  cal
+   83  history
+   84  cd ~/lab/week1
+   85  ls ~R
+   86  touch test.txt
+   87  mkdir demo
+   88  cp test.txt demo/
+   89  mv test.txt newtest.txt
+   90  rm newtest.txt
+   91  ss -tuln
+   92  exit
+   93  terminal_log.txt
+   94  cat ~/lab/week1/notes/terminal_log.txt
+   95  mkdir -p ~/lab/week1/{recon,tools,notes}
+   96  ls ~/lab/week1
+   97  script ~/lab/week1/notes/terminal_log.txt
+   98  pwd
+   99  ls
+  100  ls -la
+  101  whoami
+  102  hostname
+  103  uname -a
+  104  ip addr show
+  105  df -h
+  106  free -h
+  107  data
+  108  cd ~/lab/week1
+  109  cat notes/target_notes.txt
+  110  touch test.txt
+  111  mkdir demo
+  112  mv test.txt newtest.txt
+  113  rm newtest.txt
+  114  ss -tuln
+  115  history
+  116  clear
+  117  pwd
+  118  ls
+  119  ls -la
+  120  whoami
+  121  hostname
+  122  uname -a
+  123  ip addr show
+  124  dh -h
+  125  df -h
+  126  free -h
+  127  date
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hl[36ml[39m[36ml[39m[38;5;244ms -la[39m[36ml[36ms[39m[36ml[36ms[36m [39m[36ml[36ms[39m[39m [39m-[32m-[39m[32m-[32mR[39m[39m [?1l>[?2004l
+.:
+ [0m[01;34mDesktop[0m   [01;34mDocuments[0m   [01;34mDownloads[0m  'example .com.pcapng'   file1.txt   [01;34mlab[0m   [01;34mMusic[0m   [01;34mPictures[0m   [01;34mPublic[0m  'sugdhar cyber tech packets.pcapng'   [01;34mTemplates[0m   [01;34mtools[0m   [01;34mVideos[0m  'youtupe packet .pcapng'
+
+./Desktop:
+
+./Documents:
+
+./Downloads:
+
+./lab:
+[01;34mweek1[0m
+
+./lab/week1:
+[01;34mdemo[0m  [01;34mnotes[0m  [01;34mrecon[0m  [01;34mtools[0m
+
+./lab/week1/demo:
+test.txt
+
+./lab/week1/notes:
+terminal_log.txt
+
+./lab/week1/recon:
+
+./lab/week1/tools:
+[01;32msetup_check.sh[0m
+
+./Music:
+
+./Pictures:
+ [01;35mScreenshot_2026-03-01_09-18-45.png[0m   [01;35mScreenshot_2026-03-08_04-22-34.png[0m   [01;35mScreenshot_2026-03-08_04-23-43.png[0m   [01;35mScreenshot_2026-03-08_04-37-50.png[0m   [01;35mScreenshot_2026-03-08_04-41-21.png[0m   [01;35mScreenshot_2026-03-08_04-59-30.png[0m  'wire shark'
+ [01;35mScreenshot_2026-03-08_04-21-05.png[0m   [01;35mScreenshot_2026-03-08_04-23-12.png[0m   [01;35mScreenshot_2026-03-08_04-25-56.png[0m   [01;35mScreenshot_2026-03-08_04-38-29.png[0m   [01;35mScreenshot_2026-03-08_04-58-04.png[0m   [01;35mScreenshot_2026-05-26_11-09-41.png[0m
+
+./Public:
+
+./Templates:
+
+./tools:
+
+./Videos:
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004ht[1mt[0m[1mt[0m[38;5;244mouch test.txt[39m[13D[1mt[39m[1mu[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[0m[4mt[0m[4mu[24m[4mt[24m[24m [24m[1mt[0m[1mt[0m[38;5;244mouch test.txt[39m[13D[1mt[39m[1mo[0m[1mt[1mo[39m[1mu[0m[0m[4mt[0m[4mo[0m[4mu[24m[4mu[39m[4mc[24m[4mc[39m[4mh[24m[24m[36mt[24m[36mo[24m[36mu[24m[36mc[24m[36mh[39m[36mh[36m [39m[36mh[39m[39m [39mt[1mt[0m[1mt[39m[1me[0m[0mt[0me[39ms[39mt[39m.[39mt[39mx[39mt[?1l>[?2004l
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hm[4mm[24m[4mm[24m[38;5;244mv test.txt newtest.txt[39m[22D[4mm[39m[4mk[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;5;244mdir demo[39m[8D[4mm[4mk[39m[4md[24m[4md[39m[4mi[24m[4mi[39m[4mr[24m[24m[36mm[24m[36mk[24m[36md[24m[36mi[24m[36mr[39m[36mr[36m [39m[36mr[39m[39m [39md[39me[39mm[39mo[?1l>[?2004l
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[4mc[24m[4mc[24m[38;5;244mlear[39m[4mc[39m[4mp[24m[39m [39m [39m [24m[36mc[24m[36mp[39m[38;5;244m test.txt demo/[39m[15D[36mc[36mp[36m [39m[36mc[36mp[39m[39m [39mt[1mt[0m[1mt[39m[1me[0m[1me[39m[1ms[0m[1ms[39m[1mt[0m[1mt[39m[1m.[0m[1m.[39m[1mt[0m[1mt[39m[1mx[0m[1mx[39m[1mt[0m[1mt[39m[1m [0m[1mt[0m[0m [39md[1md[0m[1md[39m[1me[0m[1me[39m[1mm[0m[1mm[39m[1mo[0m[1mo[39m[1m/[0m[?1l>[?2004l
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hm[4mm[24m[4mm[24m[38;5;244mkdir demo[39m[9D[4mm[39m[4mv[24m[39m [39m [39m [39m [39m [39m [39m [39m [8D[24m[36mm[24m[36mv[39m[38;5;244m test.txt newtest.txt[39m[21D[36mm[36mv[36m [39m[36mm[36mv[39m[39m [39mt[1mt[0m[1mt[39m[1me[0m[1me[39m[1mw[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[0mt[0me[0mwst   [1mt[1me[0m[38;5;244mst.txt newtest.txt[39m[18D[1me[39m[1ms[0m[1ms[39m[1mt[0m[1mt[39m[1m.[0m[1m.[39m[1mt[0m[1mt[39m[1mx[0m[1mx[39m[1mt[0m[1mt[39m[1m [0m[1mt[0m[0m [39mn[39me[39mw[39mt[39me[39ms[39mt[39m.[39mt[39mx[39mt[?1l>[?2004l
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;5;244ms -tuln[39m[4ms[39m[4ms[24m[24m[36ms[24m[36ms[39m[36ms[36ms[36m [39m[36ms[36ms[39m[39m [39m-[32m-[39m[32m-[32mt[39m[32mt[32mu[39m[32mu[32ml[39m[32ml[32mn[39m[?1l>[?2004l
+Netid                      State                      Recv-Q                      Send-Q                                             Local Address:Port                                             Peer Address:Port                      
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hh[4mh[24m[4mh[24m[38;5;244mistory[39m[4mh[39m[4mi[24m[4mh[4mi[39m[4ms[24m[4ms[39m[4mt[24m[4mt[39m[4mo[24m[4mo[39m[4mr[24m[4mr[39m[4my[24m[24m[36mh[24m[36mi[24m[36ms[24m[36mt[24m[36mo[24m[36mr[24m[36my[39m[?1l>[?2004l
+    1  whoiam
+    2  mkdir tools
+    3  touch file1.txt
+    4  ls
+    5  mkdir tools
+    6  cd tools
+    7  torbrowser-launcher
+    8  torbrowser-launcher
+    9  sudo pkill wireshark
+   10  ping google.com
+   11  ping 8.8.8.8
+   12  sudo apt update
+   13  ping -c 4 google.com
+   14  xfce4-screenshooter
+   15  gnome-screenshot -a
+   16  xfce4-screen
+   17  xfce4-screenshooter
+   18  xfce-screenshooter -d 10
+   19  gnome-screenshot-i
+   20  gnome-screenshot -i
+   21  y
+   22  gnome-screenshort -i
+   23  sudo apt update
+   24  whoiam
+   25  whoami
+   26  ls
+   27  mkdri
+   28  mkdirdharani
+   29  mkdri 
+   30  mkdri
+   31  cat<<'EOT'>~/lab/week1/tools/setup_check.sh\n#!/bin/bash\necho"===SYSTEM INFO==="\necho"Hostname:$(hostname)"\necho"User:$(whoami)"\necho"IP Address:$(ip addr show|grep 'inet'|\nawk'{print $2}'|head-1)"\necho"Kernal:$(uname-r)"\necho"===DISK USAGE ==="\ndf -h \nEOT
+   32  mkdir -p ~/lab/week1/tools
+   33  cat
+   34  mkdir
+   35  mkdir -p ~/lab/week1/tools
+   36  cat << 'EOT' > ~/lab/week1/tools/setup_check.sh\n#!/bin/bash\necho "=== SYSTEM INFO ==="\necho "Hostname:$(hostname)"\necho "User:$(whoami)"\necho "IP Address:$ip addr showe | grep 'inet' |\necho '{print $2}' | head -1)"\necho "Kernal: $uname -r)"\necho "===DISK USAGE==="\ndf -h\nEOT
+   37  chmod +x ~/lab/week1/tools/setup_check.sh
+   38  ~/lab/week1/tools/setup_check.sh
+   39  script ~/lab/week1/notes/terminal_log.txt
+   40  mkdir -script ~/lab/week1/notes/terminal_log.txt
+   41  script ~/lab/week1/notes/terminal_log.txt
+   42  pwd
+   43  ls
+   44  ls -la
+   45  whoami
+   46  hostname
+   47  uname -a
+   48  ip addr show
+   49  df -h
+   50  free -h
+   51  data
+   52  date
+   53  cal
+   54  cd ~/lab/week1
+   55  ls -R
+   56  cat notes/target_note.txt
+   57  touch test.txt
+   58  mkdir demo
+   59  cp test.txt demo/
+   60  mv test.txt newtest.txt
+   61  rm newtest.txt
+   62  ss -tuln
+   63  history
+   64  clear
+   65  echo "Hello"
+   66  man ls
+   67  exit
+   68  ls ~/lab/week1/notes
+   69  terminal_log.txt
+   70  ls ~/lab/week1/tools
+   71  script ~/lab/week1/notes/terminal_log.txt
+   72  pwd
+   73  ls
+   74  ls -la
+   75  whoami
+   76  hostname
+   77  uname -a
+   78  ip addr show
+   79  df -h
+   80  free -h
+   81  date
+   82  cal
+   83  history
+   84  cd ~/lab/week1
+   85  ls ~R
+   86  touch test.txt
+   87  mkdir demo
+   88  cp test.txt demo/
+   89  mv test.txt newtest.txt
+   90  rm newtest.txt
+   91  ss -tuln
+   92  exit
+   93  terminal_log.txt
+   94  cat ~/lab/week1/notes/terminal_log.txt
+   95  mkdir -p ~/lab/week1/{recon,tools,notes}
+   96  ls ~/lab/week1
+   97  script ~/lab/week1/notes/terminal_log.txt
+   98  pwd
+   99  ls
+  100  ls -la
+  101  whoami
+  102  hostname
+  103  uname -a
+  104  ip addr show
+  105  df -h
+  106  free -h
+  107  data
+  108  cd ~/lab/week1
+  109  cat notes/target_notes.txt
+  110  touch test.txt
+  111  mkdir demo
+  112  mv test.txt newtest.txt
+  113  rm newtest.txt
+  114  ss -tuln
+  115  history
+  116  clear
+  117  pwd
+  118  ls
+  119  ls -la
+  120  whoami
+  121  hostname
+  122  uname -a
+  123  ip addr show
+  124  dh -h
+  125  df -h
+  126  free -h
+  127  date
+  128  history
+  129  ls -R
+  130  touch test.txt
+  131  mkdir demo
+  132  cp test.txt demo/
+  133  mv test.txt newtest.txt
+  134  ss -tuln
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004he[4me[24m[4me[24m[38;5;244mxit[39m[4me[39m[4mh[24m[39m [39m [4me[4mh[4mo[24m[4mo[4m [24m[4mo[24m[24m [4me[4mh[24m[24m [4me[24m[24m [4me[24m[38;5;244mxit[39m[4me[39m[4mc[24m[39m [39m [38;5;244mho "Hello"[39m[10D[4me[4mc[39m[4mh[24m[4mh[39m[4mo[24m[24m[36me[24m[36mc[24m[36mh[24m[36mo[39m[36mo[36m [39m[36mo[39m[39m [39m"[33m"[39m[33m"[33mH[39m[33mH[33me[39m[33me[33ml[39m[33ml[33ml[39m[33ml[33mo[39m[33mo[33m"[39m[?1l>[?2004l
+Hello
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004he[4me[24m[4me[24m[38;5;244mcho "Hello"[39m[11D[4me[39m[4mx[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[24m[36me[24m[36mx[39m[38;5;244mit[39m[36me[36mx[36mi[39m[39m[4me[39m[4mx[39m[4mi[24m[4mi[39m[4mt[24m[24m[36me[24m[36mx[24m[36mi[24m[36mt[39m[?1l>[?2004l
+
+Script done on 2026-05-27 10:37:15-04:00 [COMMAND_EXIT_CODE="0"]
